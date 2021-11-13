@@ -17,11 +17,11 @@ O conjunto de dados utilizados é o famoso _dataset boston_.<br>Existem 14 atrib
 10. `tax` - valor total da taxa de imposto sobre a propriedade por _10.000  dólares americanos_;
 11. `ptratio` - proporção professor-aluno por cidade;
 12. `black` - 1000 (black - 0,63) ^ 2 onde black é a proporção de negros por cidade;
-13. `lstat` -% status inferior da população;
+13. `lstat` - % status inferior da população;
 14. `medv` - valor médio de casas ocupadas pelo proprietário em _1.000 dólares americanos_.
 
 - O dataste original se encontra no site:
- - https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
+  - https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 
 **Detalhes**
 
@@ -30,3 +30,4 @@ O conjunto de dados utilizados é o famoso _dataset boston_.<br>Existem 14 atrib
 
 **Vamos para o desafio!**
 
+Segue o link do [notebook](https://bit.ly/3qADulh).
